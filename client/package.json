@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "axios": "^0.22.0",
-    "bootstrap": "^5.1.1",
+    "bootstrap": "^5.2.2",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.3.0",
     "react": "^17.0.2",
